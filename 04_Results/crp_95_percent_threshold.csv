@@ -1,0 +1,9 @@
+XOR_Count,Model,CRPs_Required,Status
+1,LR Transformed,1000.0,Reached 95%
+1,MLP Transformed,5000.0,Reached 95%
+2,LR Transformed,,Not reached
+2,MLP Transformed,16000.0,Reached 95%
+3,LR Transformed,,Not reached
+3,MLP Transformed,,Not reached
+4,LR Transformed,,Not reached
+4,MLP Transformed,,Not reached
